@@ -1,0 +1,30 @@
+.title{
+    background-color: rgb(237, 224, 224);
+    background-image: url("background.png");
+    background-blend-mode: multiply;
+    background-size: cover;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    text-align: center;
+    font-size: 4em;
+    border-bottom: 1px solid rgba(255, 255, 255,.3);
+    border-radius: 20px;
+
+}
+
+.odot{
+    padding-top: 50px;
+    width: 80%;
+    text-align: center;
+}
+
+.ft{
+    background-color: rgb(237, 224, 224);
+}
+
+.vd{
+    display: block;
+    margin: auto;
+    padding-bottom: 30px;
+}
+
